@@ -6,13 +6,6 @@ In COMP 2156, students will learn about the core concepts of DevOps, including c
 
 The course is delivered through a combination of lectures, hands-on labs, and group projects. Students will have the opportunity to work on real-world projects and gain experience using the tools and techniques used in the industry.
 
-Some of the specific topics covered in COMP 2156 include:
-
-Introduction to DevOps
-Agile software development methodologies
-Continuous integration and continuous delivery
-Version control with Git
-Automated testing and deployment
-Infrastructure as code with Terraform
+The COMP 2156 DevOps course covers a wide range of topics including source control, continuous integration and delivery, infrastructure as code, and cloud computing technologies.
 Containerization with Docker and Kubernetes
 By the end of the course, students should have a solid understanding of the DevOps philosophy and the tools and technologies used in the industry. They should also be able to apply these concepts to their own software development projects and workflows.
