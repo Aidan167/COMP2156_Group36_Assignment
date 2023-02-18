@@ -9,3 +9,15 @@ The course is delivered through a combination of lectures, hands-on labs, and gr
 The COMP 2156 DevOps course covers a wide range of topics including source control, continuous integration and delivery, infrastructure as code, and cloud computing technologies.
 Containerization with Docker and Kubernetes
 By the end of the course, students should have a solid understanding of the DevOps philosophy and the tools and technologies used in the industry. They should also be able to apply these concepts to their own software development projects and workflows.
+
+
+
+Resources:
+
+The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations by Gene Kim, Jez Humble, and Patrick Debois
+
+The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win by Gene Kim, Kevin Behr, and George Spafford
+
+"What is DevOps?" article on the Atlassian website
+
+"Introduction to DevOps" course on Udemy
