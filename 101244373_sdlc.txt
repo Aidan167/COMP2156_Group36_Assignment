@@ -1,0 +1,6 @@
+there are multiple cycles of a devops professional 
+continuous development is the phase that involves planning adn coding the software 
+continuous testing is the stagw ehere the software is tested for bugs 
+continuous integration is a practice where developers require commit changes to the source code more frequently 
+continous deployment is where code is deployed to production servers
+continous monitoring is where the preformance is monitored and fixes are applied as needed
