@@ -1,1 +1,5 @@
-Devops for system administration is a seccond year course at george brown fot the T147 and T141 courses that uses github and its repositories to teach about the meaning and uses of devips in our careers after graduation
+Devops for system administration 
+is a seccond year course at george brown for the
+T147 and T141 courses that uses github and its repositories 
+to teach about the meaning and uses of devops in our careers 
+after graduation
