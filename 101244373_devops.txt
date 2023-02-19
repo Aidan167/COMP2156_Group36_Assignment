@@ -11,5 +11,5 @@ Core concepts
 Course topics
 - Source control
 - Cloud computing 
-- containerizations 
+- containerization
 
