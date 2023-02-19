@@ -3,3 +3,13 @@ is a seccond year course at george brown for the
 T147 and T141 courses that uses github and its repositories 
 to teach about the meaning and uses of devops in our careers 
 after graduation
+
+Core concepts 
+- Continuous integration adn delivery
+- infrastructure as code 
+
+Course topics
+- Source control
+- Cloud computing 
+- containerizations 
+
